@@ -9,7 +9,7 @@ This repository contains the source codes for the paper.
 	    * `sudo apt update`
 	    * `sudo apt install build-essential`
 2.  To install python kernel, use the following command:
-      * `sudo apt update`      
+   		* `sudo apt update`      
 	    * `sudo apt install python3`
 	    
 ## File Structure
