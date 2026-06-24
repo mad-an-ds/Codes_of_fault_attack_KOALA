@@ -24,4 +24,4 @@ This repository contains the source codes for the paper.
 
 ## For file_name.c file:
 1.  compile the programme	:`gcc file_name.c`
-2.  run the file			    :`./a.out
+2.  run the file			:`./a.out`
