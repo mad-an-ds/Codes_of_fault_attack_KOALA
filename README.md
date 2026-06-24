@@ -9,8 +9,8 @@ This repository contains the source codes for the paper.
 	    * `sudo apt update`
 	    * `sudo apt install build-essential`
 2.  To install python kernel, use the following command:
-   		* `sudo apt update`      
-	    * `sudo apt install python3`
+   	* `sudo apt update`
+	* `sudo apt install python3`
 	    
 ## File Structure
 1.  `coverage_one_round.py`and `coverage_two_round.py`      : Script for finding minimal number of fault location for Koala-P.
