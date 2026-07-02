@@ -1,4 +1,4 @@
-//in this code the fault is injected in the penultimate round and then the fault location is identified
+//in this code the fault is injected in the penultimate round and then the fault location is identified in the Koala-P permutation
 
 
 #include <stdio.h>

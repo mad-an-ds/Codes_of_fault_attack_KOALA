@@ -1,4 +1,4 @@
-//in this code for 100 states faults are injected randomly and the state before non-linear layer (chi layer) is recovered.
+//in this code, for 100 states faults are injected randomly and the state before non-linear layer (chi layer) is recovered.
 //for each state 1000 times the faults are injected in random and we observe the number of faults required to recover the state  every time (out of the 1000 times)
 //then we take an average of how many faults are needed for each state.
 //Finally, we do a GRAND Average of the average no. of fauts reqired to recover each state.
